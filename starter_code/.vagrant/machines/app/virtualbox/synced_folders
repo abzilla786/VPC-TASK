@@ -1,0 +1,1 @@
+{"virtualbox":{"/app":{"guestpath":"/app","hostpath":"/Users/abdullahayyaz/code/opscode/vagrant_multi_vm/starter_code 2/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/abdullahayyaz/code/opscode/vagrant_multi_vm/starter_code 2","disabled":false,"__vagrantfile":true}}}
